@@ -1,2 +1,2 @@
 # AnimeFLV
-Copy of page "https://www3.animeflv.net"
+Copy of web page "https://www3.animeflv.net"
